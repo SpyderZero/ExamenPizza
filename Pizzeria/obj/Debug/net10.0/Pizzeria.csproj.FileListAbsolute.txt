@@ -1,0 +1,15 @@
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\bin\Debug\net10.0\Pizzeria.exe
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\bin\Debug\net10.0\Pizzeria.deps.json
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\bin\Debug\net10.0\Pizzeria.runtimeconfig.json
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\bin\Debug\net10.0\Pizzeria.dll
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\bin\Debug\net10.0\Pizzeria.pdb
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.AssemblyInfo.cs
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.sourcelink.json
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.dll
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\refint\Pizzeria.dll
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.pdb
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\Pizzeria.genruntimeconfig.cache
+C:\Users\Manuel Dominguez\Documents\GitHub\Pizzeria\obj\Debug\net10.0\ref\Pizzeria.dll
